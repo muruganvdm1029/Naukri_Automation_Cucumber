@@ -1,2 +1,1 @@
-Project :Naukri Automation  : 
-Tools  : Java selenium with Cucumber BDD 
+Project :  Naukri Automation                                                                                                                                                                    Tools  :  Java selenium with Cucumber BDD( Framework)
