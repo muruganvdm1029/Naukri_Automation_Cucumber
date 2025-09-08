@@ -1,1 +1,2 @@
-Naukri Automation using Cucumber framework
+Project :Naukri Automation  : 
+Tools  : Java selenium with Cucumber BDD 
